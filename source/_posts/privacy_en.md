@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy
+title: Privacy Policy - EN
 date: 2023-06-03 15:12:06
 tags:
 ---
