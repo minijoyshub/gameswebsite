@@ -1,0 +1,421 @@
+{
+    "ConfigVersion": 1,
+    "VideoAdContents": [
+        {
+            "ContentId": "RailsRoller",
+            "Link": {
+                "Url": "https://apps.apple.com/us/app/id1564282166",
+                "xAndroidPackageId": "com.z2game.railsballrun",
+                "IOSUrlScheme": "btgame1564282166://",
+                "IOSAppId": "1564282166",
+                "IOSPackageId": "com.z2game.railsballrun"
+            },
+            "Title": "Rails Roller",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "https://games.minijoy.online/adassets/images/AppEmpty.jpg",
+            "VideoUrl": "https://games.minijoy.online/adassets/videos/RailsRoller.mp4",
+            "Priority": 102,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "StackCube24",
+            "Link": {
+                "Url": "https://apps.apple.com/us/app/id1561822392",
+                "xAndroidPackageId": "com.z2game.stack24",
+                "IOSUrlScheme": "btgame1561822392://",
+                "IOSAppId": "1561822392",
+                "IOSPackageId": "com.z2game.stack24"
+            },
+            "Title": "StackCube24",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "https://games.minijoy.online/adassets/images/AppEmpty.jpg",
+            "VideoUrl": "https://games.minijoy.online/adassets/videos/StackCube24.mp4",
+            "Priority": 100,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "UniteNClash",
+            "Link": {
+                "Url": "https://apps.apple.com/us/app/id1556056952",
+                "xAndroidPackageId": "com.z2game.uniteandclash",
+                "IOSUrlScheme": "btgame1556056952://",
+                "IOSAppId": "1556056952",
+                "IOSPackageId": "com.z2game.uniteandclash"
+            },
+            "Title": "Unite&Clash",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "https://games.minijoy.online/adassets/images/AppEmpty.jpg",
+            "VideoUrl": "https://games.minijoy.online/adassets/videos/uniteNclash.mp4",
+            "Priority": 103,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "HookRun",
+            "Link": {
+                "Url": "https://apps.apple.com/us/app/id1550504201",
+                "xAndroidPackageId": "com.z2game.hookrun",
+                "IOSUrlScheme": "btgame1550504201://",
+                "IOSAppId": "1550504201",
+                "IOSPackageId": "com.z2game.hookrun"
+            },
+            "Title": "Hook Race",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "https://games.minijoy.online/adassets/images/AppEmpty.jpg",
+            "VideoUrl": "https://games.minijoy.online/adassets/videos/HookRun.mp4",
+            "Priority": 98,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "HumanStackBattle",
+            "Link": {
+                "Url": "https://apps.apple.com/us/app/id1514309760",
+                "xAndroidPackageId": "com.z2game.towerbattle",
+                "IOSUrlScheme": "btgame1514309760://",
+                "IOSAppId": "1514309760",
+                "IOSPackageId": "com.z2game.seesawbattle"
+            },
+            "Title": "Stack Battle",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "https://games.minijoy.online/adassets/images/AppEmpty.jpg",
+            "VideoUrl": "https://games.minijoy.online/adassets/videos/HumanStackBattle.mp4",
+            "Priority": 97,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "StackTowerRace",
+            "Link": {
+                "Url": "https://apps.apple.com/us/app/id1507131646",
+                "xAndroidPackageId": "com.z2game.pileup",
+                "IOSUrlScheme": "btgame1507131646://",
+                "IOSAppId": "1507131646",
+                "IOSPackageId": "com.z2game.pileup"
+            },
+            "Title": "Stack Race",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "https://games.minijoy.online/adassets/images/AppEmpty.jpg",
+            "VideoUrl": "https://games.minijoy.online/adassets/videos/StackTowerRace.mp4",
+            "Priority": 99,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "SnakeVortex",
+            "Link": {
+                "Url": "https://apps.apple.com/us/app/id1537976903",
+                "xAndroidPackageId": "com.z2game.passvortex",
+                "IOSUrlScheme": "btgame1537976903://",
+                "IOSAppId": "1537976903",
+                "IOSPackageId": "com.z2game.passvortex"
+            },
+            "Title": "Snake Vortex",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "https://games.minijoy.online/adassets/images/AppEmpty.jpg",
+            "VideoUrl": "https://games.minijoy.online/adassets/videos/SnakeVortex.mp4",
+            "Priority": 102,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "StairRush",
+            "Link": {
+                "Url": "https://apps.apple.com/us/app/id1535789495",
+                "xAndroidPackageId": "com.Z2GAME.StairRoad",
+                "IOSUrlScheme": "btgame1535789495://",
+                "IOSAppId": "1535789495",
+                "IOSPackageId": "com.Z2GAME.StairRoad"
+            },
+            "Title": "Stair Rush",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "https://games.minijoy.online/adassets/images/AppEmpty.jpg",
+            "VideoUrl": "https://games.minijoy.online/adassets/videos/StairRush.mp4",
+            "Priority": 104,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "HelixStair",
+            "Link": {
+                "Url": "https://apps.apple.com/us/app/id1539538118",
+                "xAndroidPackageId": "com.z2game.helixclimber",
+                "IOSUrlScheme": "btgame1539538118://",
+                "IOSAppId": "1539538118",
+                "IOSPackageId": "com.z2game.helixclimber"
+            },
+            "Title": "Helix Climber",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "https://games.minijoy.online/adassets/images/AppEmpty.jpg",
+            "VideoUrl": "https://games.minijoy.online/adassets/videos/HelixStair.mp4",
+            "Priority": 102,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "StackFall",
+            "Link": {
+                "Url": "https://itunes.apple.com/cn/app/id1454091348?mt=8",
+                "xAndroidPackageId": "mobi.gstudio.game.fallingstackball",
+                "IOSUrlScheme": "btgame1454091348://",
+                "IOSAppId": "1454091348",
+                "IOSPackageId": "mobi.gstudio.game.fallingstackball"
+            },
+            "Title": "Stack Breaker",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "https://games.minijoy.online/adassets/images/AppEmpty.jpg",
+            "VideoUrl": "https://games.minijoy.online/adassets/videos/StackFall_P.mp4",
+            "Priority": 105,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "InfectedCity",
+            "Link": {
+                "Url": "https://itunes.apple.com/cn/app/id1415707157?mt=8",
+                "xAndroidPackageId": "mobi.gstudio.game.ZombieCity",
+                "IOSUrlScheme": "btgame1415707157://",
+                "IOSAppId": "1415707157",
+                "IOSPackageId": "mobi.gstudio.game.ZombieCity"
+            },
+            "Title": "ZomieCity.io",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "https://games.minijoy.online/adassets/images/AppEmpty.jpg",
+            "VideoUrl": "https://games.minijoy.online/adassets/videos/InfectedCity_P.mp4",
+            "Priority": 96,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "RollyJump",
+            "Link": {
+                "Url": "https://www.taptap.com/app/135465",
+                "xAndroidPackageId": "cn.bahamut.game.hophophop",
+                "IOSUrlScheme": "btgame1372395478://",
+                "IOSAppId": "1372395478",
+                "IOSPackageId": "cn.bahamut.game.hophophop"
+            },
+            "Title": "Rolly Jump",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "https://games.minijoy.online/adassets/images/AppEmpty.jpg",
+            "VideoUrl": "https://games.minijoy.online/adassets/videos/RollyJump_P.mp4",
+            "Priority": 103,
+            "Limit": "2/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "WildChaser",
+            "Link": {
+                "Url": "https://itunes.apple.com/cn/app/id1436266966?mt=8",
+                "xAndroidPackageId": "mobi.gstudio.game.slimeanimal",
+                "IOSUrlScheme": "btgame1415708282://",
+                "IOSAppId": "1415708282",
+                "IOSPackageId": "mobi.gstudio.game.slimeanimal"
+            },
+            "Title": "CutePet.io",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "https://games.minijoy.online/adassets/images/AppEmpty.jpg",
+            "VideoUrl": "https://games.minijoy.online/adassets/videos/WildChaser_P.mp4",
+            "Priority": 91,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "RollySnake",
+            "Link": {
+                "Url": "https://www.taptap.com/app/142049",
+                "xAndroidPackageId": "mobi.gstudio.game.snakevsrollyblock",
+                "IOSUrlScheme": "btgame1415707597://",
+                "IOSAppId": "1415707597",
+                "IOSPackageId": "mobi.gstudio.game.snakevsrollyblock"
+            },
+            "Title": "Rolly Snake",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "https://games.minijoy.online/adassets/images/AppEmpty.jpg",
+            "VideoUrl": "https://games.minijoy.online/adassets/videos/RollySnake_P.mp4",
+            "Priority": 104,
+            "Limit": "2/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "RollingBallz",
+            "Link": {
+                "Url": "https://www.taptap.com/app/70412",
+                "xAndroidPackageId": "cn.bahamut.game.rollingballz",
+                "IOSUrlScheme": "btgame1317518650://",
+                "IOSAppId": "1317518650",
+                "IOSPackageId": "cn.bahamut.game.rollingballz"
+            },
+            "Title": "Rolling Ballz",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "https://games.minijoy.online/adassets/images/AppEmpty.jpg",
+            "VideoUrl": "https://games.minijoy.online/adassets/videos/RollingBallz_P.mp4",
+            "Priority": 100,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "TwistyRush",
+            "Link": {
+                "Url": "https://www.taptap.com/app/135466",
+                "xAndroidPackageId": "cn.bahamut.game.colorballsroad",
+                "IOSUrlScheme": "btgame1370929810://",
+                "IOSAppId": "1370929810",
+                "IOSPackageId": "cn.bahamut.game.colorballsroad"
+            },
+            "Title": "Color Ball Rush",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "https://games.minijoy.online/adassets/images/AppEmpty.jpg",
+            "VideoUrl": "https://games.minijoy.online/adassets/videos/TwistyRush.mp4",
+            "Priority": 105,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "TwistyRoller",
+            "Link": {
+                "Url": "https://www.taptap.com/app/79054",
+                "xAndroidPackageId": "cn.bahamut.game.rollingcoaster",
+                "IOSUrlScheme": "btgame1341336378://",
+                "IOSAppId": "1341336378",
+                "IOSPackageId": "cn.bahamut.game.rollingcoaster"
+            },
+            "Title": "Twisty Roller",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "https://games.minijoy.online/adassets/images/AppEmpty.jpg",
+            "VideoUrl": "https://games.minijoy.online/adassets/videos/TwistyRoller.mp4",
+            "Priority": 103,
+            "Limit": "2/2d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        },
+        {
+            "ContentId": "SkyJump",
+            "Link": {
+                "Url": "market://details?id=cn.bahamut.game.skyjump",
+                "xAndroidPackageId": "cn.bahamut.game.skyjump",
+                "IOSUrlScheme": "btgame1358100456://",
+                "IOSAppId": "1358100456",
+                "IOSPackageId": "cn.bahamut.game.skyjump"
+            },
+            "Title": "Sky Jump",
+            "Desc": "",
+            "VideoLoop": false,
+            "ImageUrl": "https://games.minijoy.online/adassets/images/AppEmpty.jpg",
+            "VideoUrl": "https://games.minijoy.online/adassets/videos/SkyJump_P.mp4",
+            "Priority": 104,
+            "Limit": "3/1d",
+            "LinkButton": {
+                "ButtonColor": "",
+                "TextTerm": "",
+                "TextColor": ""
+            }
+        }
+    ],
+    "Placements": [
+        {
+            "PlacementId": "Opening",
+            "IntervalLimit": "",
+            "Limit": "0/7d",
+            "RandomAd": 1
+        },
+        {
+            "PlacementId": "Default",
+            "IntervalLimit": "",
+            "Limit": "10/7d",
+            "RandomAd": 1
+        },
+        {
+            "PlacementId": "Window",
+            "IntervalLimit": "",
+            "Limit": "",
+            "RandomAd": 0
+        }
+    ]
+}
